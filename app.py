@@ -111,7 +111,7 @@ class SalesReportApp:
         # st.line_chart(self.data1.set_index('Date'))
         # st.pyplot()
         # st.write(self.data1)
-        st.title("Pre Sales Telecalling Report")
+        st.title("Dashboard")
         parameter_options = ['CRM Calls', 'Telecalling Calls',"No. of Calls",'CRM Prospect', 'Telecalling Prospect', 'Total Prospect']
         # self.data1 = self.data1["CRM Calls"].astype(int)
         # self.data1 = self.data1["Telecalling Calls"].astype(int)
@@ -132,7 +132,7 @@ class SalesReportApp:
         self.data1 = self.data1[['Day', chosen_parameter]]
         # self.data1 = self.data1.set_index('Day')
 
-        print(self.data1)
+        # print(self.data1)
 
 
         # Plot the line chart
@@ -140,7 +140,7 @@ class SalesReportApp:
         st.scatter_chart(self.data1, x="Day",y=chosen_parameter)
 
         # Display the DataFrame
-        st.write(self.data1)
+        # st.write(self.data1)
 
 
     def display_result(self):
