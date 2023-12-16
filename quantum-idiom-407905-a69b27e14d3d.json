@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "quantum-idiom-407905",
+  "private_key_id": "a69b27e14d3df54f1addc6fe077570f4c7716ead",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHZgStMgdIG4MM\nrgZpTEyJRBsNU4HbQg/+a1B9qz+dJ5xYU4bSKsF1lGH1SZzr9tNBnrBaudm/Wdku\ni9AEp6NBsnYVZFgWtm42+apVMZ5sF1hxZwwICyEzkTH3TzE0g26EfchVN5hjuzj1\nwXP7C/9ZyMJ5WngUcdQ74YtDEl5HBMASo1Or1iInqm2V191tmu97nit9qcDZkVKG\nAdsewxgrv/q9spBm200J+K1wP+NFtX5Bz3uDUdSe8TtvI/SQ+48IrzZnkINs434q\n4UerCLCrJ51DnVBUAI5TUMZO16hqmlWvFKPID5S8qIx5k2TwUyC0Xn57/ZYWUqtH\nqSqLhmE7AgMBAAECggEADXlO0pdBV7WINvihdUcTGulvvIhKi5Lcus/smflS7J8r\nGOrX/ualuPjEX8tQH7/HibUb7J2HYb9EBjmrXk0non5ZLVvg+fPs4akgQe5+6oXv\nU4ZnkTmTTkU+75u50vcYpjpLqbp+gSq7EBw45ptqb1o6DfI3kAYbFcrJWshod3rz\nkG6hRBQ+RjDbDmQncfi26vEIpZf9m1g6/n5pPYQ4LM4EFpSRlrHy0V0Z0zBMHVed\nt3FH37Cz2Uqix/ZrI8uC9r0YsG1G5EE2nOK3gFs5ecSKR6Woz1bs8OY3Rumrh8+n\nqYlABlXi16ixxJ4jUZVCKsv8xMYyK058x3893mYjPQKBgQD0iM3bFY8eYVLwqzVP\nvc87gYZEiIiF1cpviC0RtyAzIpL8aEOZGq5/tnVMRl/jQYBU6k0V0L6yNu3OGL7K\nM2QIrJGVVvEPePoD7dBm8nmkKzC3JHT7TfN5qNcDjq9GiRjdKqWPdo6czNG7jscy\nlt+vi5QY/ejOsafg3CiwcJpW3wKBgQDQv3BiJUrWqPBumE4bOIekKFeSaCiW4VVG\njUG9eMdNYHQwgUVzVkKfo+2PkPBBXA/Bt/1zbbFdiylCAVHwSSXygMMbYk6BEr8G\nj2wiIDHB5l6LeAo3irv9WcvdrnFeERIMb3RzshN/++PMTa6/W5XaE5hjqA0mzd4W\n/JjhI4GNJQKBgHoMheJhQkuBe+oPKc6hB/vFTASMuMdDy4QbTZNX+URMb1x3lbWm\n8Y1gve7R+S3uFWVMhCjtRSCh9dM12pQFTlpd91O4TxzP3slzOt8HCtt7ixb9pT2A\nzJLeSGLIJodoCfbpQDT4kXmFaPDZ9GY1k3OEkOhgYoA3f3jlqZFWwlG1AoGAcm2O\nmG5i4NrIuYdJwYgyap0mq/3myhaJXVxPfiJ39gV6i6BBRuExMjt1HO7RlLJ3fLRz\n/dNSl7mSCzmYBgTDBXTp/tfbustg5aK3HtnRDL5Qc1mBGEM3m8CejU1znaHz59cs\n2cLzB4Q3siWfNgxpT5rQPUjAtNXC+YzL7RY+jPUCgYAC4ytW0SMotazErxnodSvf\nFPxRyUHpw/rmeDAxDiWTeaaoCtv9+UYDGJk2S6qHmil80aiAcTdyIiMSocbRzRha\nQ3nz3eDnK52MbanYO+EO5tNPC/MTEN1iZf4udi28vg8nDQo5Hf3IU5H4k7b2HsFF\nJEn6+HTltmdipoyOxrAYeQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "productivity@quantum-idiom-407905.iam.gserviceaccount.com",
+  "client_id": "117135774452282836794",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/productivity%40quantum-idiom-407905.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
